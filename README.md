@@ -2,7 +2,7 @@
 Instrucciones para crear una Memory Card que permita cargar copias de seguridad por USB en la Playstation 2.
 
 
-1.- Formateamos el pendrive con sector de arranque en "MBR" y en formato "FAT32". Descomprimimos ahi el contenido del archivo "XXXXXXXX.7z" descargado de este Github.
+1.- Formateamos el pendrive con sector de arranque en "MBR" y en formato "FAT32". Descomprimimos ahi el contenido del archivo "MCA-FMCB.7z" descargado de este Github.
 
 2.- Introducimos el pendrive en un puerto USB de ls PS2. Instroducir en el zocalo MC-0 una memory card que tengas ya con FMCB/wLaunchELF. Introducir en MC-1 la tarjeta que queramos crear (AVISO: se borrarán todos los datos que haya en MC-1).
 
