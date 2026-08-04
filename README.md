@@ -15,3 +15,9 @@ Instrucciones para crear una Memory Card que permita cargar copias de seguridad 
 7.- Formateamos el pendrive con sector de arranque en "MBR" y en formato "FAT32". Descomprimimos ahi el contenido del archivo "EXTRAS.7z"
 
 8.- Introducimos el pendrive en un puerto USB de la consola, y la encendemos. Arrancamos "LaunchELF". Navegar hasta "usb:/", nos ponemos sobre "APPS", click en "R1", click en "Copy". Navegar hasta "MC-0", click "R1" y click "Paste", click sobreescribir "Yes". Repetimos esto mismo con los directorios "BOOT", "neutrino", "POPS", "POPSTARTER" y "SYS-CONF".
+
+9.- Apagamos la consola. Extraemos el pendrive USB. Encendemos la consola. Si todo va bien, apareceran en el menú todas las opciones.
+
+10.- Formateamos el pendrive con sector de arranque en "MBR" y en formato "exFAT". Introducimos el pendrive en un puerto USB de la consola. Arrancamos "RiptOPL". Cuando termine de dar vueltas el circulo rojo, apagamos la consola y extraemos el pendrive USB. Con esto hemos creado en el pendrive la estructura necesaria para meter juegos.
+
+11.- Copiamos los juegos que queramos en la carpeta "DVD" del pendrive en formato ISO (o en la carpeta CD para los juegos de PS2 en ese formato).
