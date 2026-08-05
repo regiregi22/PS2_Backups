@@ -34,7 +34,7 @@ https://sites.google.com/view/ysai187/home/projects/fmcbfhdb
 OPL Manager - v24 - (Caratulas de juegos en OPL)  
 https://oplmanager.com/site/  
   
-[FORK] RiptOPL (Customized Open-PS2-Loader) rolling - (OPL Mejorado)  
+[FORK] RiptOPL (Customized Open-PS2-Loader) rolling - (OPL Mejorado. Incluye POPStarter)  
 https://www.psx-place.com/resources/fork-riptopl-customized-open-ps2-loader.1711/  
   
 wLaunchELF (R3Z) - "v4.76" - (Ejecutar aplicaciones homebrew)  
