@@ -27,6 +27,8 @@ Instrucciones para crear una Memory Card que permita cargar copias de seguridad 
 ---------------------------------------------------------------------------------
 Estructura de fabrica  de "FMCB - "v1.966 - 2019/04/13" en "Normal, cross-region":
 
+Estructura de fábrica de "FMCB - v1.966 - 2019/04/13" en "Normal, cross-region":
+
 mc1:/
 ├── APPS/
 │   ├── FMCBapps.icn
