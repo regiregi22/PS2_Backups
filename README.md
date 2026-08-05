@@ -27,46 +27,44 @@ Instrucciones para crear una Memory Card que permita cargar copias de seguridad 
 ---------------------------------------------------------------------------------
 Estructura de fabrica  de "FMCB - "v1.966 - 2019/04/13" en "Normal, cross-region":
 
-Estructura de fábrica de "FMCB - v1.966 - 2019/04/13" en "Normal, cross-region":
-
-mc1:/
-├── APPS/
-│   ├── FMCBapps.icn
-│   └── icon.sys
-├── BAEXEC-SYSTEM/
-│   ├── osd120.elf
-│   ├── osd130.elf
-│   ├── osdmain.elf
-│   ├── FMCB.icn
-│   └── icon.sys
-├── BCEXEC-SYSTEM/
-│   ├── osdmain.elf
-│   ├── FMCB.icn
-│   └── icon.sys
-├── BEEXEC-SYSTEM/
-│   ├── osd130.elf
-│   ├── osdmain.elf
-│   ├── FMCB.icn
-│   └── icon.sys
-├── BIEXEC-SYSTEM/
-│   ├── osd110.elf
-│   ├── osd130.elf
-│   ├── osdmain.elf
-│   ├── osdsys.elf
-│   ├── atad.irx
-│   ├── dev9.irx
-│   ├── FMCB.icn
-│   ├── hddload.irx
-│   └── icon.sys
-├── BOOT/
-│   ├── BOOT.ELF
-│   ├── BOOT.icn
-│   └── icon.sys
-└── SYS-CONF/
-    ├── FMCB_CFG.ELF
-    ├── endvdpl.irx
-    ├── FREEMCB.CNF
-    ├── icon.sys
-    ├── sysconf.icn
-    ├── USBD.IRX
+mc1:/  
+├── APPS/  
+│   ├── FMCBapps.icn  
+│   └── icon.sys  
+├── BAEXEC-SYSTEM/  
+│   ├── osd120.elf  
+│   ├── osd130.elf  
+│   ├── osdmain.elf  
+│   ├── FMCB.icn  
+│   └── icon.sys  
+├── BCEXEC-SYSTEM/  
+│   ├── osdmain.elf  
+│   ├── FMCB.icn  
+│   └── icon.sys  
+├── BEEXEC-SYSTEM/  
+│   ├── osd130.elf  
+│   ├── osdmain.elf  
+│   ├── FMCB.icn  
+│   └── icon.sys  
+├── BIEXEC-SYSTEM/  
+│   ├── osd110.elf  
+│   ├── osd130.elf  
+│   ├── osdmain.elf  
+│   ├── osdsys.elf  
+│   ├── atad.irx  
+│   ├── dev9.irx  
+│   ├── FMCB.icn  
+│   ├── hddload.irx  
+│   └── icon.sys  
+├── BOOT/  
+│   ├── BOOT.ELF  
+│   ├── BOOT.icn  
+│   └── icon.sys  
+└── SYS-CONF/  
+    ├── FMCB_CFG.ELF  
+    ├── endvdpl.irx  
+    ├── FREEMCB.CNF  
+    ├── icon.sys  
+    ├── sysconf.icn  
+    ├── USBD.IRX  
     └── USBHDFSD.IRX
