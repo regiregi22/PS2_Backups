@@ -22,7 +22,35 @@ Instrucciones para crear una Memory Card que permita cargar copias de seguridad 
 
 11.- Copiamos los juegos que queramos en la carpeta "DVD" del pendrive en formato ISO (o en la carpeta CD para los juegos de PS2 en ese formato).
 
+---------------------------------------------------------------------------------  
+VERSIONES:  
 
+FMCB - "v1.966 - 2019/04/13"  
+https://sites.google.com/view/ysai187/home/projects/fmcbfhdb  
+
+Free Memory Card Boot (FMCB) installer - "2019/04/13 - v0.987" - (Instalador FMCB)  
+https://sites.google.com/view/ysai187/home/projects/fmcbfhdb  
+
+OPL Manager - v24 - (Caratulas de juegos en OPL)  
+https://oplmanager.com/site/  
+
+[FORK] RiptOPL (Customized Open-PS2-Loader) rolling - (OPL Mejorado)  
+https://www.psx-place.com/resources/fork-riptopl-customized-open-ps2-loader.1711/  
+
+wLaunchELF (R3Z) - "v4.76" - (Ejecutar aplicaciones homebrew)  
+https://github.com/saildot4k/wLaunchELF_R3Z  
+
+PS2Ident - "v0.850" - (Info del hardware)  
+https://github.com/ps2homebrew/PS2Ident  
+
+PS2 RDRAM Test - (Test de memoria RAM)  
+https://www.psx-place.com/resources/ps2-rdram-test-by-krat0s.899/  
+
+Padtest (PS2 controller tester)  
+https://www.psx-place.com/resources/ps2-controller-tester-by-jbit.670/  
+
+DVD Player "modification" 3.11J - (osdmain.elf) - (\Without Progressive Hack\3.11J\Europe\English)  
+https://www.psx-place.com/threads/ps2-dvd-player-modifications.25039/  
 
 ---------------------------------------------------------------------------------
 Estructura de fabrica  de "FMCB - "v1.966 - 2019/04/13" en "Normal, cross-region":
